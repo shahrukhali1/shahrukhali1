@@ -71,7 +71,6 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" alt="Istio" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" />
 <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
 <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
 <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
