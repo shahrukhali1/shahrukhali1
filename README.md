@@ -79,9 +79,9 @@
 
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/shahrukhali1/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/shahrukhali1/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/shahrukhali1/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/shahrukhali1/odooapps?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/zeeshanrafiqrana/odooapps?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zeeshanrafiqrana/odooapps?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/odooapps?color=red&style=plastic)
 
 <br/>
